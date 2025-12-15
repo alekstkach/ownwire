@@ -14,9 +14,9 @@ OwnWire exposes two websockets:
 
 ## Download
 
-- [Linux binary]([https://github.com/alekstkach/ownwire/releases])
-- [macOS binary]([https://github.com/alekstkach/ownwire/releases])
-- [Windows binary]([https://github.com/alekstkach/ownwire/releases])
+- [Linux binary](https://github.com/alekstkach/ownwire/releases)
+- [macOS binary](https://github.com/alekstkach/ownwire/releases)
+- [Windows binary](https://github.com/alekstkach/ownwire/releases)
 
 ## Local test / demo
 
